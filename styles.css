@@ -1,0 +1,30 @@
+*{
+    background-color: #bcbcbc;
+    font-family:Verdana, Tahoma, sans-serif
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.recipe-links {
+    font-size: 36px;
+}
+
+.recipe,
+.recipe li,
+.recipe ul,
+.recipe ol,
+.recipe h2
+ {
+    background-color: antiquewhite;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero img {
+    height: auto;
+    width: 500px;
+}
